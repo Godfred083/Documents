@@ -1,3 +1,13 @@
+/*
+Question: What skills are required for the top paying data analysts jobs?
+- Use the top 10 highest paying Data Analyst jobs from the frist query
+- Add the specific skills required for these roles
+
+Reason: It provides a detailed look at which high paying job deman certain skills,
+        helping job seekers understand which skills to develop that align with top salaries.
+
+*/
+
 WITH top_paying_job AS (
 SELECT
     job_id,
